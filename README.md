@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Gustavo Henrique Santos Oliveira. Front-End Developer with knowledge on the following languages: HTML5, CSS3, JavaScript e Bootstrap. Fundamental notions about React and Consuming Web APIs.
+My name is Gustavo Henrique Santos Oliveira. Front-End Developer with knowledge on the following languages: HTML5, CSS3, JavaScript e Bootstrap. Fundamental notions about React and REST-API.
 
 In my free time I like  to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and play games (🎮)
 
